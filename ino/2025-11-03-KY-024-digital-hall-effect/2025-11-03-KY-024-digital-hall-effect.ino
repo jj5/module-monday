@@ -1,3 +1,6 @@
+
+// 2025-11-10 jj5 - SEE: https://arduinomodules.info/ky-024-linear-magnetic-hall-module/
+
 const int LED_PIN = 13;
 const int SENSOR_PIN = 3;
 int reading = 0;
